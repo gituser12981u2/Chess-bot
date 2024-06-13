@@ -33,7 +33,7 @@ To start the bot, run the resulting executable. The bot communicates via the UCI
 
 ## Future Work
 
-Future improvements will include implementing a chess AI algorithm such as minimax or alpha-beta pruning, adding support for different board representations, or improving the move generation algorithm.
+Future improvements will include implementing a chess AI algorithm such as minimax with alpha-beta pruning, adding support for different board representations, or improving the move generation algorithm.
 
 ## License
 
